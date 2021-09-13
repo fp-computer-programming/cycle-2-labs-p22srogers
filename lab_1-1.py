@@ -2,7 +2,7 @@
 first_name = "Sean"
 print(first_name)
 
-hobby= "Swimming
+hobby= "Swimming"
 print(hobby)
 
 
